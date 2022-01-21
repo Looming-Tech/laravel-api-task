@@ -19,6 +19,8 @@ The API should allow for:
 The API specification is for the candidate to decide. Please provide basic documentation of it so we can test. Please provide steps to run or deploy it on the internet.
 The implementation should be done with PHP and the Laravel framework.
 
+For simplicity you could assume there is only one meeting owner (user).
+
 Bonus points:
 - add basic authentication
 - use Swagger for specification
