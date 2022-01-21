@@ -22,3 +22,4 @@ The implementation should be done with PHP and the Laravel framework.
 Bonus points:
 - add basic authentication
 - use Swagger for specification
+- add update and delete meeting methods
